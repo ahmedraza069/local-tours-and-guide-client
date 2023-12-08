@@ -27,3 +27,36 @@
 <h3>Streamlining User Authentication with the Register and Login Components</h3>
 
 - The Register and Login components are essential features of the web application, facilitating user authentication and registration. In the Register component, users can securely create accounts by providing their name, email, and password, with password validation ensuring data security. They also have the option to add a profile photo. Upon successful registration, users are directed to the main application page, with informative toast notifications confirming their registration. Meanwhile, the Login component allows users to log in using their email and password or choose the convenience of social login via Google. Error handling is in place to notify users of any issues, and the components ensure seamless navigation, redirecting users to their intended destinations after registration or login. With visually appealing designs and easy access to forgotten password recovery, these components enhance the overall user experience and security of the application.
+
+  
+<h3>Technologies Used:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,tailwind,react,firebase,express,mongodb,nodejs,git,github" />
+  </a>
+</p>
+
+
+## Installation Guide
+
+This guide explains how other users can install and run your project.
+
+### 1. View the Live Website
+
+Firstly, you need to see your website in action. Visit [this link](https://github.com/ahmedraza069/local-tours-and-guide-client) to do so.
+
+### 2. Clone the Project
+
+To clone the project to your local machine, use the following command:
+
+```bash
+git clone https://github.com/your-username/your-project.git
+
+```bash
+npm install
+
+```bash
+npm start
+
+```bash
+Feel free to replace placeholder texts like `your-username`, `your-project`, and `your-website-url.com` with the actual information relevant to your project.
