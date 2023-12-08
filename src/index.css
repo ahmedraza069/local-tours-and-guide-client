@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Define the styles for the active link */
+.active-link {
+    background-color: #ff5733; /* Set the background color for the active link */
+    color: #fff; /* Set the text color for the active link */
+    font-weight: bold; /* Set the font weight for the active link */
+    /* You can add more styles as needed */
+  }
+  
+  /* Define the hover effect for the active link */
+  .active-link:hover {
+    background-color: #ff7f50; /* Change the background color on hover */
+    /* You can add more styles for the hover effect */
+  }
+  
